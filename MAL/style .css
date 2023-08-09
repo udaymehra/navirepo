@@ -1,0 +1,25 @@
+ body{
+    background-color: black;
+}
+
+#logo{
+    background-color: green;
+    border-radius: 10px;
+    margin-left:10px ;
+}
+#search-anime{
+    width: 20%;
+    margin-left: 900px;
+    justify-content: space-between;
+    box-sizing: border-box;
+    margin-bottom: 40px;
+}
+#my-div{
+ margin-right: 10px;
+}
+hr{
+    border: 0;
+    background: skyblue;
+    height: 2px;
+    
+}
